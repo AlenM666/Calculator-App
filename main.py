@@ -1,9 +1,3 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
 
 class Calculator:
     def __init__(self, num1, num2):
@@ -53,4 +47,3 @@ while True:
 
 
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
